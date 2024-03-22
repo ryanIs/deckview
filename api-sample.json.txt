@@ -1,0 +1,45 @@
+ {
+    name: 'Archangel Avacyn // Avacyn, the Purifier',
+    cmc: 5,
+    colors: [ 'R' ],
+    colorIdentity: [ 'R', 'W' ],
+    type: 'Legendary Creature — Angel',
+    supertypes: [ 'Legendary' ],
+    types: [ 'Creature' ],
+    subtypes: [ 'Angel' ],
+    rarity: 'Mythic',
+    set: 'SOI',
+    setName: 'Shadows over Innistrad',
+    text: 'Flying\n' +
+      'When this creature transforms into Avacyn, the Purifier, it deals 3 damage to each other creature and each opponent.',
+    flavor: '"Wings that once bore hope are now stained with blood. She is our guardian no longer."\n' +
+      '—Grete, cathar apostate',
+    artist: 'James Ryman',
+    number: '5',
+    power: '6',
+    toughness: '5',
+    layout: 'transform',
+    multiverseid: '409742',
+    imageUrl: 'http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409742&type=card',
+    rulings: [ [Object], [Object], [Object] ],
+    foreignNames: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    printings: [ 'PSOI', 'SIR', 'SLD', 'SOI', 'V17' ],
+    originalText: 'Flying\n' +
+      'When this creature transforms into Avacyn, the Purifier, it deals 3 damage to each other creature and each opponent.',
+    originalType: 'Legendary Creature — Angel',
+    legalities: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    id: '16371f62-73e5-54f5-bce1-801098de2d53'
+  },
